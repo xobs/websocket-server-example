@@ -253,6 +253,8 @@ checksum = "712e227841d057c1ee1cd2fb22fa7e5a5461ae8e48fa2ca79ec42cfc1931183f"
 [[package]]
 name = "xous"
 version = "0.9.7"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "96dbadeb05c16a251b58972f5a82e57a265d104897b81d069b9a6c3a08d8abe4"
 dependencies = [
  "bitflags",
  "debug-here",
@@ -264,6 +266,8 @@ dependencies = [
 [[package]]
 name = "xous-macros"
 version = "0.1.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "3fcf9ae34e7ea66cf8db98664e4d36ef17561bdac8c2bfdcfc0aa9d56cbf4cc0"
 dependencies = [
  "proc-macro2",
  "quote",
